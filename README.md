@@ -37,34 +37,6 @@ You can access the hosted version here: https://quantcarya.vercel.app
 * Automatic expiration prevents long-term data storage
 * Designed for short-term, controlled file sharing
 
-## Local Development
-
-```bash
-# Clone the repository
-git clone https://github.com/s4sahiko/quantcarya.git
-
-# Navigate to the project directory
-cd quantc
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-```
-
-Open `http://localhost:3000` in your browser to view the app.
-
-## Environment Variables
-
-Create a `.env.local` file and configure any required environment variables:
-
-```env
-# Example
-STORAGE_KEY=Your_Storage_Key
-
-```
-
 ## Future Improvements
 
 * File size and type restrictions
