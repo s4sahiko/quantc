@@ -1,6 +1,6 @@
-# QuantCarya
+# QuantC
 
-QuantCarya is a secure, temporary file-sharing web application that allows users to upload files and retrieve them using a unique access code. All files are automatically deleted after 48 hours to ensure privacy and reduce data exposure.
+QuantC is a secure, temporary file-sharing web application that allows users to upload files and retrieve them using a unique access code. All files are automatically deleted after 48 hours to ensure privacy and reduce data exposure.
 
 # Live Application
 
@@ -41,10 +41,10 @@ You can access the hosted version here: https://quantcarya.vercel.app
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/quantcarya.git
+git clone https://github.com/s4sahiko/quantcarya.git
 
 # Navigate to the project directory
-cd quantcarya
+cd quantc
 
 # Install dependencies
 npm install
